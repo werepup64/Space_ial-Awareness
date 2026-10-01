@@ -1,0 +1,15 @@
+!!DO NOT EDIT CURRENT OR ACCEPTED MECHANICS!!
+List of current mechanics in-game
+    Sticky cube
+    Grav-Orbs
+    Laser
+    Cube and button
+List of accepted mechanics
+    Mirror field
+    Aerial Faith Plate but you can move it
+--Only modify this section--
+List of proposed mechanics
+    format propositions as follows: {Mechanic: [short description of what it does] (your user)}
+    example: Mirror field: Inverts gravitational polarity of whatever passes through (Werepup64)
+---------------------------------------Start below this line---------------------------------------------
+
